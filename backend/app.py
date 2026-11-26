@@ -16,6 +16,9 @@ def create_app():
     app.config["SECRET_KEY"] = os.getenv("SECRET_KEY", "change-this-secret-key")
     app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///social_media_dashboard.db"
     app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
+    app.config["SESSION_COOKIE_SAMESITE"] = "None"
+    app.config["SESSION_COOKIE_SECURE"] = True
+    app.config["SESSION_COOKIE_HTTPONLY"] = True
 
     CORS(app, supports_credentials=True)
 
