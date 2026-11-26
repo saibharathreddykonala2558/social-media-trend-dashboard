@@ -20,8 +20,13 @@ def create_app():
     app.config["SESSION_COOKIE_SECURE"] = True
     app.config["SESSION_COOKIE_HTTPONLY"] = True
 
-    CORS(app, supports_credentials=True)
-
+    CORS(
+        app,
+        supports_credentials=True,
+        origins=[
+            "https://saibharathreddykonala2558.github.io"
+        ]
+    )
     db.init_app(app)
 
     app.register_blueprint(auth_bp)
