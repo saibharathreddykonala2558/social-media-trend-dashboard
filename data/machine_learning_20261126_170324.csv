@@ -1,0 +1,538 @@
+﻿platform,post_id,title,text,author,subreddit,url,created_at,likes,comments,shares,views,engagement
+YouTube,OIqy9IAuf64,EcoFarm app uses machine learning to warn India's pond farmers of fish disease,"A mobile advisory app built for integrated multi-trophic aquaculture in Mandla, India, scores pond water quality and flags fish-disease risk so smallholders can act before losses spread.
+
+📖 Read the full story: https://agronewstoday.com/article/ecofarm-app-ai-advice-fish-ponds-mandla-india
+
+The Agro News — agriculture, farmers and the rural economy
+
+#Shorts #Agriculture #AgNews",The Agro News (দা এগ্রো নিউজ),,https://www.youtube.com/watch?v=OIqy9IAuf64,2026-11-26,0,0,0,0,0
+YouTube,ZaCdBXcDC48,Perceptron in Machine Learning | Explained with a Cricket Match #shorts #ai #tech,"Perceptron in machine learning, explained with one simple question: should I go to the Sunday cricket match?
+
+A perceptron gives every input a weight (how important it is), adds everything up, and says yes only if the total is above a limit. We work through a small example: weights five, three and minus six, limit four, total two, so the answer is no. We also see that real perceptrons learn their weights from examples, that the idea is from about 1958 (Frank Rosenblatt), and that one perceptron makes one straight split.
+
+Sources: https://arxiv.org/pdf/1706.04946, https://scikit-learn.org/1.1/modules/generated/sklearn.linear_model.Perceptron.html, https://www.guinnessworldrecords.com/world-records/760225-first-artificial-neural-network
+
+What should we explain next in simple words? Tell us in the comments.
+Follow ThinkTech for more simple machine learning explainers.
+
+Note: AI voice clone.
+
+#shorts #perceptron #machinelearning #neuralnetwork",ThinkTech,,https://www.youtube.com/watch?v=ZaCdBXcDC48,2026-11-26,1,0,0,0,1
+YouTube,4zrE7etkJA0,#machinelearning #shorts,#machinelearning #shorts ...,Baba Jha,,https://www.youtube.com/watch?v=4zrE7etkJA0,2026-11-26,0,0,0,1,0
+YouTube,II3pcKF4Ryg,Lagos Roads and the Logic of Machine Learning,"I built an AI from scratch and dropped it on a 4-lane Lagos road full of cars, danfos and okadas. It could only step forward, step back, or wait. With no brain, it got hit 86% of the time. After 20,000 attempts it crossed safely 97% of the time, and it figured out by itself that it should wait for gaps.
+Then I made getting hit cost 100x more, and it learned the ""safest"" strategy ever: never cross the road. 0 accidents, 0 progress.
+The lesson: AI doesn't do what you want, it does what you reward.
+🧠 The code is free in the link in my bio (tiny-intelligence on GitHub)
+🚐 A danfo is the yellow minibus everyone in Lagos takes to work
+
+#AI #MachineLearning #ReinforcementLearning #Lagos #Danfo #Naija #Coding #Python #TechTok #LearnOnTikTok #NigerianTech #DayoTries #dayodeploys",Dayo Deploys 🇳🇬,,https://www.youtube.com/watch?v=II3pcKF4Ryg,2026-11-26,0,0,0,0,0
+YouTube,G6qPp8GSjLc,How Machine Learning Created Today’s Most Powerful AI #shorts  #youtubeshorts #goviral,"Supercomputers, vast datasets, and neural networks powered a new generation of AI. From recognizing faces to mastering Go and chess through self-play, these systems improved rapidly, with much of their inner workings still a black box. #artificialintelligence  #machinelearning   #neuralnetworks  #chessai #shorts",Minute Mystery ,,https://www.youtube.com/watch?v=G6qPp8GSjLc,2026-11-26,0,0,0,0,0
+YouTube,Js_yQjep4r4,Face Mask Detection Using AI & Machine Learning -Part 3| Project Demonstration | Aurobotix Systems,"😷 *Face Mask Detection Using Artificial Intelligence | Project Demonstration*
+
+Watch our live project demonstration of an **AI-Based Face Mask Detection System**!
+
+This project uses Artificial Intelligence, Computer Vision, and Deep Learning to detect whether a person is wearing a face mask or not through a camera feed.
+
+🚀 *Project Demonstration Includes:*
+Real-time face detection
+Face mask identification
+Detection of people wearing masks
+Detection of people without masks
+Live camera-based monitoring
+AI-based prediction and results
+
+💡 *Technologies Used:*
+Python
+Artificial Intelligence (AI)
+Machine Learning
+Deep Learning
+Computer Vision
+OpenCV
+
+🎓 *Suitable For:*
+B.E / B.Tech Students
+B.Sc Computer Science
+BCA / MCA Students
+AI & Data Science Students
+Final-Year and Mini Projects
+
+📌 Interested in developing real-time AI and Machine Learning projects?
+
+Connect with *Aurobotix Systems* for internships, final-year projects, technical training, and hands-on project development.
+
+🌐 Website: https://www.aurobotixsystems.com
+▶️ Subscribe:    / @aurobotixsystems  
+
+📞 Contact: 9840046117 / 9840120802
+
+*Aurobotix Systems*
+Engineers. Innovate. Automate.
+
+#FaceMaskDetection #AIProject #MachineLearning #ComputerVision #PythonProject #OpenCV #DeepLearning #AIProjects #ProjectDemonstration #FinalYearProject #AurobotixSystems",Aurobotix Systems,,https://www.youtube.com/watch?v=Js_yQjep4r4,2026-11-26,0,0,0,2,0
+YouTube,HOxH-16uHPI,#MachineLearning #LinearRegression #DataScience #Python #MLAlgorithms GauravGoyalAI,"What makes a straight line capable of predicting the future?
+
+It comes down to just two parameters: Slope (w) and Intercept (b).
+
+In Episode 02 of our Linear Regression: Under the Hood series, we break down the equation:
+
+ŷ = wx + b
+
+Here's what happens:
+
+📌 Slope (w): Controls how steep the prediction line is.
+
+📌 Intercept (b): Determines where the line crosses the Y-axis.
+
+📌 Together: They determine the model's predictions.
+
+Using a house-price example, we explore how changing the slope rotates the line, while changing the intercept shifts it up or down.
+
+The goal isn't just to memorize an equation. It's to understand what every parameter actually does.
+
+Next episode: How does Linear Regression calculate the best-fit line?
+
+Follow @gauravgoyalai for practical Machine Learning and AI education.
+
+#MachineLearning #LinearRegression #DataScience #Python #MLAlgorithms GauravGoyalAI",Gaurav Goyal,,https://www.youtube.com/watch?v=HOxH-16uHPI,2026-11-26,0,0,0,6,0
+YouTube,vN6WlxxkvEg,Traditional Software vs AI 🤖 | Machine Learning Explained! What's the Difference? #Shorts #aishorts,"🤖 Traditional Software vs Artificial Intelligence (AI) – What's the REAL Difference?
+
+Have you ever wondered how traditional software works compared to Artificial Intelligence and Machine Learning?
+
+In this YouTube Short, discover the key differences between traditional programming and AI-powered systems.
+
+🔥 **WHAT YOU WILL LEARN:**
+
+✅ Traditional software and rule-based programming
+✅ What is Artificial Intelligence?
+✅ What is Machine Learning?
+✅ How traditional software follows predefined instructions
+✅ How AI learns from data and identifies patterns
+✅ How AI makes predictions and improves performance
+✅ Real-world examples of AI vs traditional software
+
+💡 **TRADITIONAL SOFTWARE:**
+• Works using predefined rules
+• Requires developers to write instructions
+• Usually needs manual updates to change its logic
+
+🚀 **AI / MACHINE LEARNING:**
+• Learns patterns from data
+• Makes predictions based on learned models
+• Can improve with new training data
+
+Whether you are a student, software developer, programmer, IT professional, or technology enthusiast, understanding this difference is essential in today's AI-driven world.
+
+👍 Like, Share & Subscribe to **Sr.AIEngineer** for more AI concepts, technology tutorials, coding tips, and free AI tools!
+
+💬 COMMENT: Which technology do you think will shape the future?
+
+#TraditionalSoftware #ArtificialIntelligence #MachineLearning #AIvsProgramming #shorts 
+
+traditional software vs AI, AI vs traditional programming, artificial intelligence vs traditional software, machine learning explained, what is machine learning, what is artificial intelligence, AI explained, traditional programming vs machine learning, difference between AI and software, AI vs programming, how AI works, machine learning for beginners, AI technology, software development, programming concepts, AI tutorial, computer science, software engineering, AI for beginners, technology shorts, educational shorts, Sr.AIEngineer
+
+#ArtificialIntelligence
+#MachineLearning
+#TraditionalSoftware
+#AIvsProgramming
+#Shorts",Sr.AIEngineer,,https://www.youtube.com/watch?v=vN6WlxxkvEg,2026-11-26,0,0,0,2,0
+YouTube,RUw6kmXzHII,🤖 Learn Machine Learning Basics in Hindi,"Have you ever wondered how computers learn from data without being explicitly programmed? In this introductory lesson, we break down the fundamental concepts of machine learning in simple, easy-to-understand terms.
+
+Our instructor guides you through the basics of how neural networks and algorithms function, turning complex computer science topics into accessible knowledge. Whether you are a student just starting your tech journey or someone curious about how artificial intelligence operates behind the scenes, this video provides a clear and engaging starting point for your education.
+
+We explore the core logic that allows machines to identify patterns, process information, and evolve over time. By moving away from traditional programming and focusing on data-driven learning, you will gain a solid foundation in one of the most important fields of modern technology. Join us for this professional and informative session as we demystify the digital world one step at a time.
+
+#MachineLearning #ArtificialIntelligence #LearnProgramming #TechEducation #HindiTutorial",Aman Shaikh,,https://www.youtube.com/watch?v=RUw6kmXzHII,2026-11-26,0,0,0,2,0
+YouTube,dImBIREcGHI,AI vs Machine Learning vs Deep Learning in 45 Seconds #shorts,"Can you write rules for a handwritten 7? Deep learning skips the rules and learns from examples. AI vs ML vs DL, explained simply.
+Full episode: https://www.youtube.com/watch?v=FAylfUQLGmQ
+#shorts #deeplearning #ai
+
+🔔 Subscribe for more data science & AI: Dr. Ashish Katyal
+  💼 LinkedIn: https://www.linkedin.com/in/dr-ashish-katyal/",Dr. Ashish Katyal,,https://www.youtube.com/watch?v=dImBIREcGHI,2026-11-26,0,0,0,16,0
+YouTube,uqZQcUVk6lo,Student Spotlight | Machine Learning & Data Science Training Experience,"🎤 REAL LEARNING. PRACTICAL INSIGHTS. STUDENT PERSPECTIVES.
+
+How can Machine Learning and Data Science be applied to real-world challenges?
+
+In this student interaction, **Aryan Gupta, Program Manager at Linkzie Technologies Pvt. Ltd.,** speaks with **Keerthi** about her experience at the Machine Learning & Data Science Upskilling Program.
+
+The conversation highlights practical learning, Machine Learning applications in the financial domain, understanding data-driven approaches and connecting technical concepts with real-world industry applications.
+
+Through industry-oriented training, students get the opportunity to explore emerging technologies, strengthen their technical understanding and gain perspectives beyond classroom learning.
+
+At Linkzie Technologies, we believe in making learning practical, relevant and aligned with evolving industry expectations.
+
+From understanding concepts to exploring applications, every learning experience counts! 🚀
+
+#MachineLearning #DataScience #StudentSpotlight #ArtificialIntelligence #FinancialTechnology #Upskilling #PracticalLearning #IndustryOrientedTraining #LinkzieTechnologies",Linkzie Technologies Pvt Ltd,,https://www.youtube.com/watch?v=uqZQcUVk6lo,2026-11-26,0,0,0,1,0
+YouTube,TNMjG-DhTqI,Chapter 6 Intro: Machine Learning 🤯 | Class 8 & 9 | ARDHANARIX,"Get ready for Chapter 6! A short introduction to Machine Learning.
+
+Introduction to Machine Learning is Chapter 6 of AI & ML Intermediate (Grades 8–9), the AI & Machine Learning course book by ARDHANARIX Technologies. This is the short introduction video for this chapter.
+
+In this chapter you will learn to:
+✅ Understand what Machine Learning (ML) means in simple language
+✅ Explain how machines learn from data instead of being directly programmed
+✅ Identify real-life examples of Machine Learning in daily life
+✅ Understand the difference between traditional programming and Machine Learning
+✅ Learn the basic types of Machine Learning (Supervised, Unsupervised, Reinforcement Learning)
+✅ Recognize how ML is used in apps like YouTube, Google Maps, and Netflix
+
+⏭️ Next: Chapter 7 Intro – Types of Machine Learning
+
+📚 Book: AI & ML Intermediate – for Grades 8–9
+▶️ More on our channel:
+• Chapter Introductions playlist: AI for Classes 8 & 9 Introduction Lessons (Intermediate Level)
+• Animated Lessons playlist: AI for Classes 8 & 9 Animated Lessons (Intermediate Level)
+• Full Classroom Lessons playlist: AI for Classes 8 & 9 Full Course
+
+👍 Like, share with your classmates, and 🔔 SUBSCRIBE for more AI lessons!
+
+━━━━━━━━━━━━━━━━━━
+🏫 ARDHANARIX Technologies, Warangal – First AI & Robotics Training in Warangal
+Complete Computer, Coding, AI & Robotics education for schools.
+📞 Call / WhatsApp: 8099609961
+🌐 https://ardhanarix-web.vercel.app/
+📧 dindigalabharathchandra@gmail.com
+ARDHANARIX – Where Power Meets Intelligence
+
+#AIforStudents #ArtificialIntelligence #MachineLearning #Class8 #Class9 #ARDHANARIX",Ardhanarix,,https://www.youtube.com/watch?v=TNMjG-DhTqI,2026-11-26,0,0,0,0,0
+YouTube,grXwpqsDtQs,How to Write a Machine Learning Evaluation Result,"Document the split, baseline, model error and a limitation. Include the transfer case so another learner can check your conclusion.
+
+Lesson: https://www.funcognito.com/topic/cross-validation-and-honest-evaluation?course=ai-start
+Practice: https://www.funcognito.com/exercises/ai-ml/first-model/activity.html
+#MachineLearning #ModelEvaluation #DataScience",Funcognito,,https://www.youtube.com/watch?v=grXwpqsDtQs,2026-11-26,0,0,0,1,0
+YouTube,erhGE0Oi_sQ,Machine Learning Baselines: Predict Print Time with the Mean,"Calculate a ten-minute baseline from four training jobs. Predict two later jobs and measure the errors before fitting a model.
+
+Lesson: https://www.funcognito.com/topic/framing-an-ml-problem?course=ai-start
+Practice: https://www.funcognito.com/exercises/ai-ml/first-model/activity.html
+#MachineLearning #BaselineModel #Regression",Funcognito,,https://www.youtube.com/watch?v=erhGE0Oi_sQ,2026-11-26,0,0,0,0,0
+YouTube,BDAV80yhxaI,AIST 2026: Zhenisbek Assylbekov - Behind the Paper: How Machine Learning Research Unfolds,,DSMLKZ - Data Science Kazakhstan,,https://www.youtube.com/watch?v=BDAV80yhxaI,2026-11-26,1,0,0,14,1
+YouTube,EziFyXbQZk0,చిన్న Colleges Studentsకి Campus Placement Chance ఉందా | Machine Learning course in Vijayawada fees,"For More Details Call : 7842371133, 7842371515 (C)
+
+Are you confused to choose a right domain/Course/Institute ? Then talk with Vanya Raj & know which domain will set for your career by matching your skills!
+
+Contact: 8688253795, 9059625270 for Appointment
+
+#FreeDataScienceAndArtificialIntelligenceCourseInVijayawada
+#Top10BestInstituteForArtificialIntelligenceInVijayawada
+#DataScienceAndArtificialIntelligenceCourseInVijayawadaFees
+#BestDataScienceAndArtificialIntelligenceCourseInVijayawada
+#BestInstituteForArtificialIntelligenceInVijayawada
+#DataScienceAndArtificialIntelligenceCourseInVijayawadaFeeStructure
+#Top10DataScienceInstituteInVijayawada
+#DataScienceTrainingInVijayawadaWithPlacement
+#BestDataScienceAndArtificialIntelligenceCourseInVijayawadaFees
+#BestDataScienceAndArtificialIntelligenceCourseInVijayawadaFree
+#BestDataScienceInstituteInVijayawadaWithPlacement
+#Top10BestDataScienceInstituteInVijayawadaWithPlacement
+#DataScienceCourseInVijayawadaWithPlacements
+#DataScienceCourseInVijayawadaOffline
+#BestInstituteForDataScienceInVijayawada
+#DataSciencecourseinVijayawada
+#DataSciencecourseinVijayawadafees
+#DataSciencecourseinVijayawadawithplacement
+#BestDataScienceinstituteinVijayawada
+#Top10DataScienceinstituteinVijayawada
+#FreeDataSciencecourseinVijayawada
+#BestDataEngineeringTrainingInVijayawadaWithPlacement
+#DataEngineerCourseWithPlacementInVijayawada
+#BestAzureDataEngineerTrainingInVijayawada
+#DataEngineeringTrainingInstituteInVijayawada
+#DataEngineeringOfflineCourseInVijayawada
+#AzureDataEngineerCourseInVijayawada
+#AzureDataEngineerOnlineTrainingInVijayawada
+#BestDataEngineeringTrainingInVijayawadaWithPlacementForFreshers
+#BestInstituteForDataEngineeringInVijayawada
+#BestAzureDataEngineerCourse
+#FreeDataEngineeringTrainingInstituteInVijayawada
+#DataEngineeringTrainingInstituteInVijayawadaFees
+#BestDataEngineeringCoursesInVijayawada
+#BestDataEngineeringTrainingInstituteInVijayawada
+#BestInstituteForAzureDataEngineerInVijayawada
+#DataEngineeringTrainingInstituteInVijayawadaFeeStructure
+#BestInstituteForAzureDataEngineerInVijayawadaPlacement
+#BestInstituteForAzureDataEngineerInVijayawadaFees
+#AzureDataEngineerCourseVijayawada
+#DataEngineerInstituteInVijayawada
+#AzureDataEngineerCourseVijayawadaFees
+#AzureDataEngineerCertification
+#AzureDataEngineerCourseFeesInVijayawada
+#AzureDataEngineerCourseInTelugu
+#BestAzureDataEngineerOnlineTrainingInVijayawada
+#AzureDataEngineerOnlineTrainingInVijayawadaFree
+#AzureDataEngineerOnlineTrainingInVijayawadaForFreshers
+#AzureDataEngineerOnlineTrainingInVijayawadaFees
+#BestAzureDataEngineerOnlineTrainingInVijayawadaFree
+#BestAzureDataEngineerOnlineTrainingInVijayawadaFees
+#BestAzureDataEngineerOnlineTrainingInVijayawadaForFreshers
+#JavaFullStackCourseInVijayawada
+#JavaFullStackDeveloperCourseInVijayawada
+#JavaFullStackTrainingInVijayawada
+#BestJavaFullStackInstituteInVijayawada
+#JavaFullStackCourseFeesInVijayawada
+#PythonFullStackcourseinVijayawada
+#PythonFullStackDevelopercourseinVijayawada
+#BestPythonFullStackinstituteinVijayawada
+#PythonFullStacktraininginVijayawada
+#PythonFullStackcoursefeesinVijayawada
+#MachineLearningcourseinVijayawada
+#MachineLearningcourseinVijayawadafees
+#BestAIinstituteinVijayawada
+#Top10AIinstitutesinVijayawada
+#GenerativeAIcourseinVijayawada
+#AIMLcourseinVijayawada
+#AIMLtraininginVijayawada
+#MachineLearningcourseinVijayawada
+#AIMLcourseinVijayawada
+#BestAIinstituteinVijayawada
+#FreeAIMLcourseinVijayawada
+#MachineLearninginstituteinVijayawada
+#MachineLearningcourseinVijayawada
+#AIMLcourseinVijayawada
+#BestAIMLinstituteinVijayawada
+#Top10AIinstitutesinVijayawada
+#MachineLearninginstituteinVijayawada
+#MachineLearningcourseinVijayawada
+#AIMLcourseinVijayawada
+#BestAIMLcourseinVijayawada
+#MachineLearninginstituteinVijayawada
+#AIMLtraininginVijayawada
+#MachineLearningcourseinVijayawada
+#AIMLcourseinVijayawada
+#BestAIinstituteinVijayawada
+#TopAIMLinstituteinVijayawada
+#MachineLearninginstituteinVijayawada
+#MachineLearningcourseinVijayawada
+#AIMLcourseinVijayawada
+#BestAIMLinstituteinVijayawada
+#MachineLearninginstituteinVijayawada
+#AIMLtraininginVijayawada",Choose Your Career,,https://www.youtube.com/watch?v=EziFyXbQZk0,2026-11-26,0,0,0,7,0
+YouTube,MnYAh9vDH6Q,చిన్న Colleges Studentsకి Campus Placement Chance ఉందా | Machine Learning course in Gachibowli,"For More Details Call : 7842371133, 7842371515 (C)
+
+Are you confused to choose a right domain/Course/Institute ? Then talk with Vanya Raj & know which domain will set for your career by matching your skills!
+
+Contact: 8688253795, 9059625270 for Appointment
+
+#FreeDataScienceAndArtificialIntelligenceCourseInVijayawada
+#Top10BestInstituteForArtificialIntelligenceInVijayawada
+#DataScienceAndArtificialIntelligenceCourseInVijayawadaFees
+#BestDataScienceAndArtificialIntelligenceCourseInVijayawada
+#BestInstituteForArtificialIntelligenceInVijayawada
+#DataScienceAndArtificialIntelligenceCourseInVijayawadaFeeStructure
+#Top10DataScienceInstituteInVijayawada
+#DataScienceTrainingInVijayawadaWithPlacement
+#BestDataScienceAndArtificialIntelligenceCourseInVijayawadaFees
+#BestDataScienceAndArtificialIntelligenceCourseInVijayawadaFree
+#BestDataScienceInstituteInVijayawadaWithPlacement
+#Top10BestDataScienceInstituteInVijayawadaWithPlacement
+#DataScienceCourseInVijayawadaWithPlacements
+#DataScienceCourseInVijayawadaOffline
+#BestInstituteForDataScienceInVijayawada
+#DataSciencecourseinVijayawada
+#DataSciencecourseinVijayawadafees
+#DataSciencecourseinVijayawadawithplacement
+#BestDataScienceinstituteinVijayawada
+#Top10DataScienceinstituteinVijayawada
+#FreeDataSciencecourseinVijayawada
+#BestDataEngineeringTrainingInVijayawadaWithPlacement
+#DataEngineerCourseWithPlacementInVijayawada
+#BestAzureDataEngineerTrainingInVijayawada
+#DataEngineeringTrainingInstituteInVijayawada
+#DataEngineeringOfflineCourseInVijayawada
+#AzureDataEngineerCourseInVijayawada
+#AzureDataEngineerOnlineTrainingInVijayawada
+#BestDataEngineeringTrainingInVijayawadaWithPlacementForFreshers
+#BestInstituteForDataEngineeringInVijayawada
+#BestAzureDataEngineerCourse
+#FreeDataEngineeringTrainingInstituteInVijayawada
+#DataEngineeringTrainingInstituteInVijayawadaFees
+#BestDataEngineeringCoursesInVijayawada
+#BestDataEngineeringTrainingInstituteInVijayawada
+#BestInstituteForAzureDataEngineerInVijayawada
+#DataEngineeringTrainingInstituteInVijayawadaFeeStructure
+#BestInstituteForAzureDataEngineerInVijayawadaPlacement
+#BestInstituteForAzureDataEngineerInVijayawadaFees
+#AzureDataEngineerCourseVijayawada
+#DataEngineerInstituteInVijayawada
+#AzureDataEngineerCourseVijayawadaFees
+#AzureDataEngineerCertification
+#AzureDataEngineerCourseFeesInVijayawada
+#AzureDataEngineerCourseInTelugu
+#BestAzureDataEngineerOnlineTrainingInVijayawada
+#AzureDataEngineerOnlineTrainingInVijayawadaFree
+#AzureDataEngineerOnlineTrainingInVijayawadaForFreshers
+#AzureDataEngineerOnlineTrainingInVijayawadaFees
+#BestAzureDataEngineerOnlineTrainingInVijayawadaFree
+#BestAzureDataEngineerOnlineTrainingInVijayawadaFees
+#BestAzureDataEngineerOnlineTrainingInVijayawadaForFreshers
+#JavaFullStackCourseInVijayawada
+#JavaFullStackDeveloperCourseInVijayawada
+#JavaFullStackTrainingInVijayawada
+#BestJavaFullStackInstituteInVijayawada
+#JavaFullStackCourseFeesInVijayawada
+#PythonFullStackcourseinVijayawada
+#PythonFullStackDevelopercourseinVijayawada
+#BestPythonFullStackinstituteinVijayawada
+#PythonFullStacktraininginVijayawada
+#PythonFullStackcoursefeesinVijayawada",CYC EDU,,https://www.youtube.com/watch?v=MnYAh9vDH6Q,2026-11-26,0,0,0,7,0
+YouTube,0qhVX2tND2o,చిన్న Colleges Studentsకి Campus Placement Chance ఉందా | Machine Learning institute in Hitech City,"For More Details Call : 7842371133, 7842371515 (C)
+
+Are you confused to choose a right domain/Course/Institute ? Then talk with Vanya Raj & know which domain will set for your career by matching your skills!
+
+Contact: 8688253795, 9059625270 for Appointment
+
+#FreeDataScienceAndArtificialIntelligenceCourseInVijayawada
+#Top10BestInstituteForArtificialIntelligenceInVijayawada
+#DataScienceAndArtificialIntelligenceCourseInVijayawadaFees
+#BestDataScienceAndArtificialIntelligenceCourseInVijayawada
+#BestInstituteForArtificialIntelligenceInVijayawada
+#DataScienceAndArtificialIntelligenceCourseInVijayawadaFeeStructure
+#Top10DataScienceInstituteInVijayawada
+#DataScienceTrainingInVijayawadaWithPlacement
+#BestDataScienceAndArtificialIntelligenceCourseInVijayawadaFees
+#BestDataScienceAndArtificialIntelligenceCourseInVijayawadaFree
+#BestDataScienceInstituteInVijayawadaWithPlacement
+#Top10BestDataScienceInstituteInVijayawadaWithPlacement
+#DataScienceCourseInVijayawadaWithPlacements
+#DataScienceCourseInVijayawadaOffline
+#BestInstituteForDataScienceInVijayawada
+#DataSciencecourseinVijayawada
+#DataSciencecourseinVijayawadafees
+#DataSciencecourseinVijayawadawithplacement
+#BestDataScienceinstituteinVijayawada
+#Top10DataScienceinstituteinVijayawada
+#FreeDataSciencecourseinVijayawada
+#BestDataEngineeringTrainingInVijayawadaWithPlacement
+#DataEngineerCourseWithPlacementInVijayawada
+#BestAzureDataEngineerTrainingInVijayawada
+#DataEngineeringTrainingInstituteInVijayawada
+#DataEngineeringOfflineCourseInVijayawada
+#AzureDataEngineerCourseInVijayawada
+#AzureDataEngineerOnlineTrainingInVijayawada
+#BestDataEngineeringTrainingInVijayawadaWithPlacementForFreshers
+#BestInstituteForDataEngineeringInVijayawada
+#BestAzureDataEngineerCourse
+#FreeDataEngineeringTrainingInstituteInVijayawada
+#DataEngineeringTrainingInstituteInVijayawadaFees
+#BestDataEngineeringCoursesInVijayawada
+#BestDataEngineeringTrainingInstituteInVijayawada
+#BestInstituteForAzureDataEngineerInVijayawada
+#DataEngineeringTrainingInstituteInVijayawadaFeeStructure
+#BestInstituteForAzureDataEngineerInVijayawadaPlacement
+#BestInstituteForAzureDataEngineerInVijayawadaFees
+#AzureDataEngineerCourseVijayawada
+#DataEngineerInstituteInVijayawada
+#AzureDataEngineerCourseVijayawadaFees
+#AzureDataEngineerCertification
+#AzureDataEngineerCourseFeesInVijayawada
+#AzureDataEngineerCourseInTelugu
+#BestAzureDataEngineerOnlineTrainingInVijayawada
+#AzureDataEngineerOnlineTrainingInVijayawadaFree
+#AzureDataEngineerOnlineTrainingInVijayawadaForFreshers
+#AzureDataEngineerOnlineTrainingInVijayawadaFees
+#BestAzureDataEngineerOnlineTrainingInVijayawadaFree
+#BestAzureDataEngineerOnlineTrainingInVijayawadaFees
+#BestAzureDataEngineerOnlineTrainingInVijayawadaForFreshers
+#JavaFullStackCourseInVijayawada
+#JavaFullStackDeveloperCourseInVijayawada
+#JavaFullStackTrainingInVijayawada
+#BestJavaFullStackInstituteInVijayawada
+#JavaFullStackCourseFeesInVijayawada
+#PythonFullStackcourseinVijayawada
+#PythonFullStackDevelopercourseinVijayawada
+#BestPythonFullStackinstituteinVijayawada
+#PythonFullStacktraininginVijayawada
+#PythonFullStackcoursefeesinVijayawada",Change Your Career,,https://www.youtube.com/watch?v=0qhVX2tND2o,2026-11-26,0,0,0,28,0
+YouTube,4DlLQl1Vyig,AI vs Machine Learning vs Deep Learning vs Generative AI,"AI vs machine learning vs deep learning vs generative AI: not the same thing. Here's the one picture that fits them.
+🧠 Artificial intelligence: the big circle. Machines doing tasks that need intelligence, even a chess program built from hand-written rules.
+📈 Machine learning: inside AI. It learns from examples instead of rules, like a spam filter trained on millions of emails.
+🕸️ Deep learning: inside machine learning. Many-layered neural networks, behind face unlock and speech recognition.
+✨ Generative AI: inside deep learning. It creates new text, images and code, like ChatGPT.
+So ChatGPT is generative AI, which is deep learning, which is machine learning, which is AI.
+
+❓ Quiz: is a spam filter AI, machine learning, or both? 👇
+
+Key idea 2 of 3 · Module 1: Data Science Fundamentals · Data Science & AI: The Complete Course
+🎬 The full Module 1 lesson is free on this channel: tap the related video above.
+📚 Every lesson, in order: https://www.youtube.com/@future.techo.2026
+📘 Full visual handbook (29 core modules in one illustrated PDF): https://futuretecho.gumroad.com/l/orxaje
+
+#AI #MachineLearning #DeepLearning #Shorts",Future Techo,,https://www.youtube.com/watch?v=4DlLQl1Vyig,2026-11-26,0,0,0,4,0
+YouTube,v39V_X5NQLw,Machine Learning vs Deep Learning क्या है? 🤖 आसान भाषा में समझें | AI Explained Hindi #computer,"Machine Learning vs Deep Learning क्या है? 🤖 आसान भाषा में समझें | AI Explained Hindi
+क्या आप जानना चाहते हैं कि Machine Learning और Deep Learning क्या है? 🤖 इन दोनों में क्या अंतर है और Artificial Intelligence आखिर काम कैसे करता है?
+
+इस वीडियो में हम Machine Learning vs Deep Learning को बिल्कुल आसान भाषा में Real-Life Examples के साथ समझेंगे।
+
+आज Artificial Intelligence तेजी से दुनिया बदल रहा है। मोबाइल Face Unlock, YouTube Recommendation, ChatGPT, Voice Assistant और Self-Driving Cars जैसी Technologies में AI, Machine Learning और Deep Learning का इस्तेमाल किया जाता है।
+
+इस वीडियो में आप सीखेंगे:
+
+✅ Artificial Intelligence (AI) क्या है?
+✅ Machine Learning क्या है?
+✅ Machine Learning कैसे काम करती है?
+✅ Machine Learning के प्रकार – Supervised, Unsupervised और Reinforcement Learning
+✅ Deep Learning क्या है?
+✅ Artificial Neural Network कैसे काम करता है?
+✅ Machine Learning vs Deep Learning में अंतर
+✅ Real-Life Examples
+✅ Machine Learning Algorithms
+✅ Deep Learning के प्रकार – CNN, RNN और Transformer
+✅ AI, Machine Learning और Deep Learning का आपस में क्या संबंध है?
+✅ Machine Learning और Deep Learning के फायदे और नुकसान
+✅ भविष्य में AI का इस्तेमाल कहाँ होगा?
+
+अगर आप AI, Computer Technology और Machine Learning को आसान भाषा में सीखना चाहते हैं, तो यह वीडियो आपके लिए है।
+
+वीडियो पसंद आए तो Like 👍 करें, Channel Subscribe करें और Bell Icon 🔔 जरूर दबाएं।
+
+#MachineLearning #DeepLearning #ArtificialIntelligence #AI #TechnologyHindi
+#MachineLearning #DeepLearning #ArtificialIntelligence #AI #TechnologyHindi #AIExplained #ComputerScience #NeuralNetwork #MachineLearningHindi #DeepLearningHindi",Machine Spaces,,https://www.youtube.com/watch?v=v39V_X5NQLw,2026-11-26,0,0,0,3,0
+YouTube,6AFZcjggy-s,How Netflix Knows What You'll Watch Next (Machine Learning) #aiforbeginners #history #aihistory,"Subscribe for weekly AI for day-to-day breakdowns, and let us know: how often do you find that your personalised recommendations actually match your current interests?
+
+Personalized recommendations on platforms like Netflix or YouTube are powered by machine learning to predict your next click.
+
+Subscribe for weekly AI for day-to-day breakdowns, and let us know: how often do you find that your personalized recommendations actually match your current interests?",AI for day-to-day,,https://www.youtube.com/watch?v=6AFZcjggy-s,2026-11-26,2,0,0,6,2
+YouTube,waS1Ku7yibk,Day 11 - Linear Regression Explained #aiunlocked #machinelearning #artificialintelligence #education,"How does Machine Learning predict numerical values?
+
+Meet Linear Regression!
+
+It learns a relationship between input features and a numerical target using a mathematical equation.
+
+ŷ = b₀ + b₁x
+
+• Intercept – Starting prediction
+• Slope – Predicted change in the output
+• Best-fit line – The line learned from training data
+
+Linear Regression is one of the foundational algorithms in Classical Machine Learning.
+
+Day 11 of AI Unlocked – AI in 100 Days!
+
+#AIUnlocked #LinearRegression #MachineLearning
+#Python #DataScience #AIShorts #LearnAI",AI UNLOCKED,,https://www.youtube.com/watch?v=waS1Ku7yibk,2026-11-26,0,0,0,0,0
+YouTube,GBYyXmgCUAs,105 new machine learning jobs in Bengaluru this week #Shorts,"Find jobs matched to your CV, free: visit interviewsarthi.com, the link is in this channel's profile. https://interviewsarthi.com/apply/?utm_source=youtube&utm_medium=social&utm_campaign=autopost&utm_content=20261126-1338-jobs
+
+105 new machine learning jobs in Bengaluru this week.
+
+Hiring the most: Gsk, JPMorgan, Okta and Amazon.
+Most asked skills: Python, AWS, Generative AI and Azure.
+
+See all 788, free, no sign-up: visit interviewsarthi.com (link in bio), then tap Find jobs.
+
+Got the interview? Practise it first with a free 7-minute mock interview, at the same site.
+
+The list: https://apply.interviewsarthi.com/skills/machine-learning/bengaluru
+
+Which round worries you more, HR or technical?
+
+INTERVIEW SARTHI'S JOB SEARCH
+- Collects open jobs from Naukri, LinkedIn, Indeed and 750+ company career pages.
+- Ranks them against your CV, so you read the ones that fit.
+- Rewrites your CV for each job using only your real experience.
+- Fills the application form inside your own Chrome. You check it and press submit.
+- Never invents a fact about you, never answers salary or notice period for you, never asks for your job-site passwords.
+- Always free. Runs on your own free Google Gemini key.
+Site: https://interviewsarthi.com/apply/?utm_source=youtube&utm_medium=social&utm_campaign=autopost&utm_content=20261126-1338-jobs
+All three apps are at Interview Sarthi: interviewsarthi.com
+
+#machinelearningjobs #bangalorejobs #jobsearch #hiring #InterviewSarthi #InterviewTips #InterviewHacks #AIInterview #AIInterviewAssistant #InterviewCopilot #Placement #Freshers",Interview Sarthi,,https://www.youtube.com/watch?v=GBYyXmgCUAs,2026-11-26,0,0,0,0,0
+YouTube,ZOCfJ1Azu-Q,Interview Q: What is a token? #artificialintelligence #learning #machinelearning #aiagents,A strong answer to a common AI engineer interview question. #Shorts #AIInterview #LLM #artificialintelligence #learning #machinelearning #aiagents,Shubham Ranjan,,https://www.youtube.com/watch?v=ZOCfJ1Azu-Q,2026-11-26,0,0,0,2,0
+YouTube,9rslroNS7nA,Machine Learning Masterclass Leçon 1: Introduction au Machine Learning,"Formation sur le machine learning, allant des notions de bases à la conception et création des modèles intelligents",Genus1,,https://www.youtube.com/watch?v=9rslroNS7nA,2026-11-26,2,1,0,27,3
