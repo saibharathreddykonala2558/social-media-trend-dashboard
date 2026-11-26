@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Media Trend Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="topbar">
+        <div class="brand">
+            <span class="brand-icon">◆</span>
+            <span>Social Media Trend Dashboard</span>
+        </div>
+        <nav class="nav">
+            <button id="dashboard-link" class="nav-link active">Dashboard</button>
+            <button id="history-link" class="nav-link">Search History</button>
+            <button id="logout-button" class="nav-link logout">Logout</button>
+        </nav>
+    </header>
+
+    <main class="container">
+        <section id="auth-section" class="card auth-card">
+            <h1>Welcome to Social Media Trend Dashboard</h1>
+            <p class="subtitle">
+                Fetch live public trends from Reddit, YouTube, and GitHub.
+                Save your searches and revisit previous results anytime.
+            </p>
+
+            <div class="auth-tabs">
+                <button id="login-tab" class="tab active">Login</button>
+                <button id="register-tab" class="tab">Create Account</button>
+            </div>
+
+            <form id="login-form" class="auth-form">
+                <label for="login-identifier">Username, Email, or Phone Number</label>
+                <input id="login-identifier" type="text" placeholder="Enter username, email, or phone number" required>
+
+                <label for="login-password">Password</label>
+                <input id="login-password" type="password" placeholder="Enter your password" required>
+
+                <button type="submit" class="primary-button">Login</button>
+            </form>
+
+            <form id="register-form" class="auth-form hidden">
+                <label for="register-username">Username</label>
+                <input id="register-username" type="text" placeholder="Choose a username" required>
+
+                <label for="register-email">Email</label>
+                <input id="register-email" type="email" placeholder="Enter your email" required>
+
+                <label for="register-phone">Phone Number</label>
+                <input id="register-phone" type="tel" placeholder="Enter your phone number" required>
+
+                <label for="register-password">Password</label>
+                <input id="register-password" type="password" placeholder="Create a password" required>
+
+                <button type="submit" class="primary-button">Create Account</button>
+            </form>
+
+            <p id="auth-message" class="message"></p>
+        </section>
+
+        <section id="dashboard-section" class="hidden">
+            <section class="card search-card">
+                <h2>Live Trend Search</h2>
+                <form id="search-form">
+                    <label for="keyword">Topic or Keyword</label>
+                    <input id="keyword" type="text" placeholder="Example: artificial intelligence" required>
+
+                    <label for="platform">Platform</label>
+                    <select id="platform">
+                        <option value="all">All Platforms</option>
+                        <option value="reddit">Reddit</option>
+                        <option value="youtube">YouTube</option>
+                        <option value="github">GitHub</option>
+                    </select>
+
+                    <label for="search-date">Search Date</label>
+                    <input id="search-date" type="date" required>
+
+                    <button type="submit" class="primary-button">Fetch Live Data</button>
+                </form>
+                <p id="search-message" class="message"></p>
+            </section>
+
+            <section id="results-section" class="hidden">
+                <section class="stats-grid">
+                    <div class="stat-card">
+                        <span>Total Posts</span>
+                        <strong id="total-posts">0</strong>
+                    </div>
+                    <div class="stat-card">
+                        <span>Total Likes</span>
+                        <strong id="total-likes">0</strong>
+                    </div>
+                    <div class="stat-card">
+                        <span>Total Comments</span>
+                        <strong id="total-comments">0</strong>
+                    </div>
+                    <div class="stat-card">
+                        <span>Total Engagement</span>
+                        <strong id="total-engagement">0</strong>
+                    </div>
+                </section>
+
+                <section class="card">
+                    <h2>Daily Engagement Trend</h2>
+                    <div id="daily-chart" class="chart-container"></div>
+                </section>
+
+                <section class="card">
+                    <h2>Platform Performance</h2>
+                    <div id="platform-chart" class="chart-container"></div>
+                </section>
+
+                <section class="card">
+                    <h2>Top Keywords</h2>
+                    <div id="keyword-list" class="tag-list"></div>
+                </section>
+
+                <section class="card">
+                    <h2>Top Hashtags</h2>
+                    <div id="hashtag-list" class="tag-list"></div>
+                </section>
+
+                <section class="card">
+                    <h2>Top Posts</h2>
+                    <div id="top-posts" class="post-list"></div>
+                </section>
+
+                <button id="download-button" class="secondary-button hidden">Download Results as CSV</button>
+            </section>
+        </section>
+
+        <section id="history-section" class="hidden">
+            <section class="card">
+                <h2>Previous Searches</h2>
+                <p class="subtitle">
+                    Select any previous search to view its saved trends and results.
+                </p>
+                <div id="history-list" class="history-list"></div>
+            </section>
+        </section>
+    </main>
+
+    <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

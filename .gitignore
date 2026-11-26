@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.env
+backend/.env
+backend/instance/
+backend/instance/*.db
+*.db
+*.sqlite
+*.sqlite3
+output/
+data/*.csv
+data/*.json
+node_modules/
+.DS_Store
