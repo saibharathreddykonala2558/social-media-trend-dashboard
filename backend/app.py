@@ -7,10 +7,9 @@ from itsdangerous import URLSafeTimedSerializer
 import os
 
 
-from models import db, User
-from auth import auth_bp
-from routes import api_bp
-
+from backend.models import db, User
+from backend.auth import auth_bp
+from backend.routes import api_bp
 
 load_dotenv()
 

@@ -1,7 +1,6 @@
 from datetime import date
 from flask import Blueprint, request, jsonify, session
-from models import db, User, SearchHistory
-
+from backend.models import db, User, SearchHistory
 auth_bp = Blueprint("auth", __name__)
 
 

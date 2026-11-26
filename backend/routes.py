@@ -4,11 +4,11 @@ from datetime import date, datetime
 from flask import Blueprint, request, jsonify, session, send_file
 import pandas as pd
 
-from models import db, User, SearchHistory
-from reddit_api import fetch_reddit_posts
-from youtube_api import fetch_youtube_videos
-from github_api import fetch_github_repositories
-from analysis import analyze_results
+from backend.models import db, User, SearchHistory
+from backend.reddit_api import fetch_reddit_posts
+from backend.youtube_api import fetch_youtube_videos
+from backend.github_api import fetch_github_repositories
+from backend.analysis import analyze_results
 
 api_bp = Blueprint("api", __name__)
 
